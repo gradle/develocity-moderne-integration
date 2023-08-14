@@ -6,7 +6,7 @@ See [blog post](https://todo).
 
 ## License
 
-The Build Scan™ quickstart project is open-source software released under the [Apache 2.0 License][apache-license].
+The Gradle Enterprise Moderne integration project is open-source software released under the [Apache 2.0 License][apache-license].
 
 [apache-license]: https://www.apache.org/licenses/LICENSE-2.0.html
 [gradle-download]: https://gradle.org/install/
