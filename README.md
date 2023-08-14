@@ -1,6 +1,6 @@
 # Gradle Enterprise Moderne integration
 
-This is an example Gradle project that is used to demonstrate [Moderne](https://www.moderne.io/) executing recipes to add the [Gradle Enterprise Gradle plugin](https://docs.gradle.com/enterprise/gradle-plugin/).
+This is an example Gradle project that is used to demonstrate [Moderne](https://www.moderne.io/) executing recipes to enable the [Gradle Enterprise Gradle plugin](https://docs.gradle.com/enterprise/gradle-plugin/).
 
 See [blog post](https://todo).
 
